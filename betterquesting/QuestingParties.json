@@ -1,0 +1,42 @@
+{
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "536cf626-4bfc-3a61-8009-1be16262810d",
+          "status:8": "MEMBER"
+        },
+        "1:10": {
+          "uuid:8": "dba1c395-5987-352a-b3eb-445545cc253a",
+          "status:8": "OWNER"
+        },
+        "2:10": {
+          "uuid:8": "840bc215-fcb4-3ec5-8440-96a5155855b5",
+          "status:8": "MEMBER"
+        },
+        "3:10": {
+          "uuid:8": "52a25f76-0a4e-3f6c-859a-43b1418dcfdb",
+          "status:8": "MEMBER"
+        },
+        "4:10": {
+          "uuid:8": "2ed4337a-1874-306f-92cd-09e07520d954",
+          "status:8": "MEMBER"
+        },
+        "5:10": {
+          "uuid:8": "683d5452-7a66-31dc-9ade-6f61a6d65713",
+          "status:8": "MEMBER"
+        },
+        "6:10": {
+          "uuid:8": "1facd0f1-339b-3522-87dc-5f4ca541b12a",
+          "status:8": "MEMBER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "MeowMeows Adventures"
+        }
+      }
+    }
+  }
+}
